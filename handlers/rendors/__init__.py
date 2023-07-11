@@ -1,0 +1,1 @@
+from . import rendors_uz, renders_ru

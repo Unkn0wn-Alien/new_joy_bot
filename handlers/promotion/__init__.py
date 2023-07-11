@@ -1,0 +1,1 @@
+from . import promotion_uz, promotion_ru

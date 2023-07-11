@@ -1,0 +1,1 @@
+from . import change_language_ru, change_language_uz

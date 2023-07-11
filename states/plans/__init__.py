@@ -1,0 +1,1 @@
+from . import plans_uz, plans_ru
